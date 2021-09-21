@@ -55,7 +55,10 @@ python main.py quick_sort
 ```
 
 # Example Video
-![caption](https://drive.google.com/file/d/1U65i_dh8IWyUlQJBSTnzstq2IASHWvWB/view?usp=sharing)
+
+https://user-images.githubusercontent.com/56958751/134204113-64d8094d-5562-4159-a9e2-d941203236d5.mp4
+
+
 
 
 
