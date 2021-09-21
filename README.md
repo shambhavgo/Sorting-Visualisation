@@ -56,7 +56,8 @@ python main.py quick_sort
 
 # Example Video
 
-https://user-images.githubusercontent.com/56958751/134204113-64d8094d-5562-4159-a9e2-d941203236d5.mp4
+https://user-images.githubusercontent.com/56958751/134204268-79221837-26db-4fa2-8022-21729648906f.mp4
+
 
 
 
